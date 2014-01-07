@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynStringInterpolation", "RoslynStringInterpolation\RoslynStringInterpolation.csproj", "{8BD78AFD-76F2-4C2C-9A5F-5E287E3BB4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynStringInterpolation.Tests", "RoslynStringInterpolation.Tests\RoslynStringInterpolation.Tests.csproj", "{51D89C83-D8C7-44F3-A810-0B4A4023806D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD78AFD-76F2-4C2C-9A5F-5E287E3BB4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD78AFD-76F2-4C2C-9A5F-5E287E3BB4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD78AFD-76F2-4C2C-9A5F-5E287E3BB4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD78AFD-76F2-4C2C-9A5F-5E287E3BB4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
