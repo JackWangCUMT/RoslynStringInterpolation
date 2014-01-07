@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynStringInterpolation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynStringInterpolation.Tests", "RoslynStringInterpolation.Tests\RoslynStringInterpolation.Tests.csproj", "{51D89C83-D8C7-44F3-A810-0B4A4023806D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynStringInterpolation.CodeIssue", "RoslynStringInterpolation.CodeIssue\RoslynStringInterpolation.CodeIssue.csproj", "{4E2423C1-7187-4B64-9CD7-397D0BF26617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51D89C83-D8C7-44F3-A810-0B4A4023806D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2423C1-7187-4B64-9CD7-397D0BF26617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2423C1-7187-4B64-9CD7-397D0BF26617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2423C1-7187-4B64-9CD7-397D0BF26617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2423C1-7187-4B64-9CD7-397D0BF26617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
